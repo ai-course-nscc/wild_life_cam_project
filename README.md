@@ -4,7 +4,7 @@
 This project implements a real-time **Edge-AI Wildlife Detection and Roadside Warning System** on a Raspberry Pi 5, leveraging the **Coral Edge TPU** for high-performance inference. The system uses a **custom YOLO model trained in Google Colab** to detect specific wildlife (e.g., deer, moose) in video streams. Upon detection, it triggers a hardware warning (Beacon light (LED light used in prototype)), logs the event to a persistent database, and exposes the data via a RESTful API. This solution demonstrates the effective integration of custom AI models, edge computing, and IoT for enhancing roadside safety.
 
 ## 2. System Architecture
-![System architecture diagram](<System Architecture.png>)
+![alt text](<System Architecture.png>)
 
 The system is composed of three main modules:
 1.  **Detection Module (`detect.py`)**: The core application that captures video, runs inference, and manages hardware I/O.
