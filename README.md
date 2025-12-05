@@ -68,4 +68,6 @@ The project successfully delivers a robust Edge AI solution tailored for wildlif
 ## 6. Future Work
 -   **Web Dashboard**: Create a frontend to visualize the API data.
 -   **Cloud Sync**: Automatically upload captured images to cloud storage.
+-   **PIR**: Integrate PIR for motion detection.
+-   **Night Mode**: Implement night mode.
 -   **Alerting**: Send email or SMS notifications upon detection.
