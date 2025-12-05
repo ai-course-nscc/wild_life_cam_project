@@ -14,7 +14,7 @@ The system is composed of three main modules:
 ### Hardware Stack
 -   **Platform**: Raspberry Pi 5
 -   **Accelerator**: Coral USB Accelerator (Edge TPU)
--   **Camera**: USB Webcam or Pi Camera
+-   **Camera**: USB Webcam (logitech C920s)
 -   **Output**: GPIO-connected LED
 
 ### Software Stack
