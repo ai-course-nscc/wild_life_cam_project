@@ -1,0 +1,1 @@
+Open the Jupyter notebook in Google Colab and follow the instructions
